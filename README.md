@@ -1,4 +1,4 @@
-[![Foto Preview](preview/project-1366.avif)]()
+[![Foto Preview](preview/project-1366.avif)](https://github.com/20essentials/project-1366)
 
 <div align="center" style="display: flex; justify-content: center;">
   <a  href="https://github.com/20essentials/project-1365" target="_blank">&#8592;</a>
