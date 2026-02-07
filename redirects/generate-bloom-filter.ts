@@ -16,3 +16,4 @@ writeFileSync(
   './redirects/redirects-bloom-filter.json',
   JSON.stringify(filterJson)
 )
+
